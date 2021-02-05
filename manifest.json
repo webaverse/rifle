@@ -1,0 +1,12 @@
+{
+  "name": "rifle",
+  "description": "Rifle XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "rifle.glb",
+  "components": [
+    {
+      "type": "wear",
+      "position": [0, 0, 0]
+    }
+  ]
+}
