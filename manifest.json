@@ -5,8 +5,9 @@
   "start_url": "rifle.glb",
   "components": [
     {
-      "type": "gun",
-      "gunAnimation": "rifle"
+      "type": "use",
+      "subtype": "gun",
+      "useAnimation": "rifle"
     }
   ]
 }
